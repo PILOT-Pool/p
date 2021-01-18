@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "http(s) url to pool icon",
+    "url_png_logo": "http(s) url to pool logo",
+    "location": "Country, Continent",
+    "social": {
+      "twitter_handle": "ada_pilot",
+      "telegram_handle": "ada_pilot",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "Steven [PILOT]",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": "http(s) url to valid RSS feed"
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+  ],
+  "when-satured-then-recommend": [
+    "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
+  ]
+}
