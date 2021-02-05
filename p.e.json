@@ -28,7 +28,7 @@
     "rss": "http(s) url to valid RSS feed"
   },
   "telegram-admin-handle": [
-    ""
+    "ada_pilot"
   ],
   "my-pool-ids": [
     "c83beb18d532234c72a304ab935982be670c22e771b227a3febc3a82"
