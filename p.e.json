@@ -1,4 +1,5 @@
 {
+  "verification":"30fa38ecc1789f71e5",
   "info": {
     "url_png_icon_64x64": "http://i.epvpimg.com/L2QWfab.png",
     "url_png_logo": "http://i.epvpimg.com/KwACfab.png",
@@ -9,7 +10,7 @@
       "facebook_handle": "",
       "youtube_handle": "",
       "twitch_handle": "",
-      "discord_handle": "xxwBfFPveK", 30fa38ecc1789f71e5
+      "discord_handle": "xxwBfFPveK",
       "github_handle": ""
     },
     "rss": "http(s) url to valid RSS feed"
